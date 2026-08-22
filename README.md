@@ -107,3 +107,49 @@ The platform combines ideas from:
              +------------------+
                                 |
                            🗄️ MySQL
+
+---
+
+## 🚧 Development Status
+
+### ✅ Completed
+
+- Spring Boot project setup
+- MySQL database connection
+- User entity
+- User repository
+- User registration
+- BCrypt password encryption
+- User login
+- DTOs
+- Global exception handling
+- GitHub repository setup
+- `develop` branch setup
+
+### 🔨 Currently Developing
+
+- User security
+- JWT authentication
+- Role-based authorization
+- User profile
+- User CRUD APIs
+
+### 📋 Planned
+
+- Social feed
+- Posts, likes and comments
+- Follow system
+- Notes
+- Public/private study rooms
+- Live classes
+- Courses
+- Quizzes
+- Coding practice
+- Chat
+- Notifications
+- Gamification
+- Leaderboards
+- Python automation
+- Analytics
+- AI learning assistant
+- Deployment
